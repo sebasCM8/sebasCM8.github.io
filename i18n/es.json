@@ -82,6 +82,51 @@
       "description": "Primer empleado de ingeniería. Construí el producto principal desde cero utilizando Next.js y Tailwind CSS."
     }
   },
+  "skills": {
+    "heading": "Habilidades",
+    "react": {
+      "title": "React",
+      "category": "Lib",
+      "description": "UI Components, Hooks, State Management",
+      "experience_years": "4",
+      "experience_label": "años de experiencia"
+    },
+    "typescript": {
+      "title": "TypeScript",
+      "category": "Lenguaje",
+      "description": "Static Typing, Generics, Interfaces",
+      "experience_years": "3",
+      "experience_label": "años de experiencia"
+    },
+    "astro": {
+      "title": "Astro",
+      "category": "Framework",
+      "description": "Island Architecture, Static Site Generation",
+      "experience_years": "2",
+      "experience_label": "años de experiencia"
+    },
+    "tailwind": {
+      "title": "Tailwind CSS",
+      "category": "Diseño",
+      "description": "Utility-First CSS, Responsive Design",
+      "experience_years": "4",
+      "experience_label": "años de experiencia"
+    },
+    "nodejs": {
+      "title": "Node.js",
+      "category": "Backend",
+      "description": "REST APIs, Express, Authentication",
+      "experience_years": "3",
+      "experience_label": "años de experiencia"
+    },
+    "kali_linux": {
+      "title": "Kali Linux",
+      "category": "Seguridad",
+      "description": "Pentesting, SQL Injection, Network Auditing",
+      "experience_years": "1",
+      "experience_label": "año de experiencia"
+    }
+  },
   "contact": {
     "status": "Disponible para freelance/trabajo",
     "email_label": "Email",

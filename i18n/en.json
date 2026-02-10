@@ -82,6 +82,51 @@
       "description": "First engineering hire. Built the core product from scratch using Next.js and Tailwind CSS."
     }
   },
+  "skills": {
+    "heading": "Skills",
+    "react": {
+      "title": "React",
+      "category": "Lib",
+      "description": "UI Components, Hooks, State Management",
+      "experience_years": "4",
+      "experience_label": "years of experience"
+    },
+    "typescript": {
+      "title": "TypeScript",
+      "category": "Language",
+      "description": "Static Typing, Generics, Interfaces",
+      "experience_years": "3",
+      "experience_label": "years of experience"
+    },
+    "astro": {
+      "title": "Astro",
+      "category": "Framework",
+      "description": "Island Architecture, Static Site Generation",
+      "experience_years": "2",
+      "experience_label": "years of experience"
+    },
+    "tailwind": {
+      "title": "Tailwind CSS",
+      "category": "Design",
+      "description": "Utility-First CSS, Responsive Design",
+      "experience_years": "4",
+      "experience_label": "years of experience"
+    },
+    "nodejs": {
+      "title": "Node.js",
+      "category": "Backend",
+      "description": "REST APIs, Express, Authentication",
+      "experience_years": "3",
+      "experience_label": "years of experience"
+    },
+    "kali_linux": {
+      "title": "Kali Linux",
+      "category": "Security",
+      "description": "Pentesting, SQL Injection, Network Auditing",
+      "experience_years": "1",
+      "experience_label": "year of experience"
+    }
+  },
   "contact": {
     "status": "Available for freelance",
     "email_label": "Email",
